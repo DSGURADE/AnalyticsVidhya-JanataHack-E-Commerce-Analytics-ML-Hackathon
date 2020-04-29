@@ -1,5 +1,5 @@
 # JanataHack: E-Commerce-Analytics-ML-Hackathon
-# Gender Prediction for E-Commerce
+### Gender Prediction for E-Commerce
 With the evolution of the information and communication technologies and the rapid growth of the Internet for the exchange and distribution of information, Electronic Commerce (e-commerce) has gained massive momentum globally, and attracted more and more worldwide users overcoming the time constraints and distance barriers.
 It is important to gain in-depth insights into e-commerce via data-driven analytics and identify the factors affecting product sales, the impact of characteristics of customers on their purchase habits.
 It is quite useful to understand the demand, habits, concern, perception, and interest of customers from the clue of genders for e-commerce companies. 
